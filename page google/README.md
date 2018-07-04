@@ -1,4 +1,4 @@
 # Google-Homepage
 
 
-https://waraibeatbox.github.io/Google/.
+https://waraibeatbox.github.io/Google/
